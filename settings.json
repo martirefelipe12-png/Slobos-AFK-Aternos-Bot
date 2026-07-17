@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "auraland369.aternos.me:18076
-    ",
+    "ip": "auraland369.aternos.me",
     "port": 18076,
     "version": "",
     "try-creative": false
